@@ -1,8 +1,8 @@
 👋 **Hi, I'm Daniel!**
 
 **Data Scientist & Data Engineer**  
-Working with **Python**, **SQL**, **NoSQL** and **ML Models**
-databases: MongoDB, Cassandra, Neo4j.  
+Working with **Python**, **SQL**, **ETL and ELT tools**, **ML libraries**
+stacks you will find in my projects: **Airflow, S3, Athena, Spark, dbt, scrapy, streamlit**
 Passionate about building scalable data solutions & exploring new technologies.
 
 ---
