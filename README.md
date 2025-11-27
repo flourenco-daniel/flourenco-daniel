@@ -1,7 +1,7 @@
 👋 **Hi, I'm Daniel!**
 
-**Data Scientist & Data Engineer**  
-Working with **Python**, **SQL**, **ETL and ELT tools**, **ML libraries**
+**Analytics Engineer**  
+Working with **Python**, **SQL**, **ETL and ELT tools**, **dbt*
 stacks you will find in my projects: **Airflow, S3, Athena, Spark, dbt, scrapy, streamlit**
 Passionate about building scalable data solutions & exploring new technologies.
 
